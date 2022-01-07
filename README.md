@@ -24,3 +24,5 @@ Challenges were encountered with pulling data by goal ranges specifically based 
 Two conclusions that can be drawn about the 'Outcomes Based on Launch Date' are that the successful outcomes peaked in the summer and that the outcomes overall had more successes than failures.
 ### Conclusion on 'Outcomes Based on Goal'
 It can be concluded from the 'Outcomes Based on Goals' that highest number of successes were in the goal range of $1,000 to $4,999 but the highest percentage of successes were in the less than $1,000 range.
+### Dataset Limitations and Other Recommended Tables
+The dataset was limited by not examining the number of backers for each campaign, the country of the campaign and the average donation. It is recommended that a table is created analyzing the outcome based on countries and the average donation as welll as the number of backers is included in each dataset.

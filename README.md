@@ -7,6 +7,7 @@ This analysis determines how different campaigns fared in relation to their laun
 The campaign outcomes were analyzed according to success and failure outcomes by their launch date month and their outcomes based on goals.
 ### Analysis of Outcomes Based on Launch Date
 This is the data showing outcomes based on their launch date.
+
 <img width="400" alt="Data Screenshot - Theater Outcomes by Launch Date" src="https://user-images.githubusercontent.com/96451672/148578158-645d7024-ff3a-4ea2-b41a-4bbfd2df59f1.png">
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/96451672/148579571-e6bd27c2-d6e7-43cc-948d-77171a01e6fe.png)
 ### Analysis of Outcomes Based on Goals

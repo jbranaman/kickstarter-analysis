@@ -20,3 +20,7 @@ This is the data showing outcomes based on their goals.
 ### Challenges and Difficulties Encountered
 Challenges were encountered with pulling data by goal ranges specifically based on outcome. This was a tedious process ensuring the correct parameters were entered. There were difficulties encountered in translating the outcome percentages to the 'Outcomes Based on Goals' chart.
 ## Results
+### Conclusions on 'Outcomes Based on Launch Date'
+Two conclusions that can be drawn about the 'Outcomes Based on Launch Date' are that the successful outcomes peaked in the summer and that the outcomes overall had more successes than failures.
+### Conclusion on 'Outcomes Based on Goal'
+It can be concluded from the 'Outcomes Based on Goals' that highest number of successes were in the goal range of $1,000 to $4,999 but the highest percentage of successes were in the less than $1,000 range.

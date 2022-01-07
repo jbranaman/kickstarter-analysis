@@ -15,3 +15,4 @@ This is the data showing outcomes based on their launch date.
 ### Analysis of Outcomes Based on Goals
 This is the data showing outcomes based on their goals.
 <img width="750" alt="Data Screenshot - Outcomes Based on Goals" src="https://user-images.githubusercontent.com/96451672/148579471-587dbf2b-07ac-4f07-b9f7-2cc42ac0acee.png">
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96451672/148579821-a3fa735a-8605-4eb7-a254-3dbba666a2df.png)

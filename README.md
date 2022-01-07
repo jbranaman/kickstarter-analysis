@@ -16,3 +16,7 @@ This is the data showing outcomes based on their launch date.
 This is the data showing outcomes based on their goals.
 <img width="750" alt="Data Screenshot - Outcomes Based on Goals" src="https://user-images.githubusercontent.com/96451672/148579471-587dbf2b-07ac-4f07-b9f7-2cc42ac0acee.png">
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/96451672/148579821-a3fa735a-8605-4eb7-a254-3dbba666a2df.png)
+
+### Challenges and Difficulties Encountered
+Challenges were encountered with pulling data by goal ranges specifically based on outcome. This was a tedious process ensuring the correct parameters were entered. There were difficulties encountered in translating the outcome percentages to the 'Outcomes Based on Goals' chart.
+## Results
